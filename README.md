@@ -23,4 +23,5 @@ This project analyzes the hypothetical case of Rockbuster Stealth, a fictional m
 
 ## Final Deliverables
 * Rockbuster Stealth Online Video Rental Service Data Analysis Report ([PDF](https://drive.google.com/file/d/1IeRwn5iqqB_ZtzeAbgrjKmeJ7LqkSeP0/view)) <br>
+* Rockbuster Stealth Data Dictionary ([PDF](https://drive.google.com/file/d/1Y-X0qvOOGyf1woTfpU4mnP79QzUFMKxF/view))
 * [Tableau](https://public.tableau.com/app/profile/vicky.hung3960/viz/RockbusterStealthOnlineRentalServiceDataAnalysisReport/RockbusterStealth)
